@@ -1,0 +1,10 @@
+{
+    "slug": "rak7200-lora-tracker",
+    "description": "RAK7200 is the best available prototyping LoRa sensor device with built-in 3.7V rechargeable Li-ion battery and GPS modem. The RAK7200 has built-in S76G which integrates the ultra low power ARM Cortex-M3 STM32L073 microcontroller and SX1276 LoRa long rang",
+    "wide": true,
+    "sticky": false,
+    "collapsed": false,
+    "collapsedCategories": false,
+    "showLastUpdated": false,
+    "locale": "en_us"
+}

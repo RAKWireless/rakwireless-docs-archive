@@ -1,0 +1,10 @@
+{
+    "slug": "rak811-lora-breakout-module",
+    "description": "RAK811 LoRa\u00ae Breakout Module is a wireless remote sensor node solution based from RAK811 + MEMS Sensor. The board uses the latest LoRaWAN\u2122 Version 1.0.2 and supports the LoRaWAN\u2122 working mode, making it easier to link into the LoRaWAN\u2122 network.",
+    "wide": true,
+    "sticky": false,
+    "collapsed": false,
+    "collapsedCategories": false,
+    "showLastUpdated": false,
+    "locale": "en_us"
+}

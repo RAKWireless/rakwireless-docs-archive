@@ -1,0 +1,10 @@
+{
+    "slug": "rak2247-lorawan-gateway-concentrator-module",
+    "description": "The RAK2247 LoRaWAN\u2122 Gateway Concentrator Module is a LoRa\u00ae Concentrator module with mini-PCIe form factor based on the SX1301.The module can be used in any embedded platform offering a mini-PCIe slot with an SPI or USB connection.",
+    "wide": true,
+    "sticky": false,
+    "collapsed": false,
+    "collapsedCategories": false,
+    "showLastUpdated": false,
+    "locale": "en_us"
+}

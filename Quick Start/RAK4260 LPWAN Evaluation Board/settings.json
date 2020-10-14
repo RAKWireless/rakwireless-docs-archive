@@ -1,0 +1,10 @@
+{
+    "slug": "rak4260-lora-evaluation-board",
+    "description": "RAK4260 LoRa\u00ae Evaluation Board is a WisBlock product that consists of RAK4261 (RAK4260 LoRa\u00ae Module + Breakout board) and the RAK5005 WisBase. This development board allows access to all serial and GPIO ports for easy configuration.",
+    "wide": true,
+    "sticky": false,
+    "collapsed": false,
+    "collapsedCategories": false,
+    "showLastUpdated": false,
+    "locale": "en_us"
+}

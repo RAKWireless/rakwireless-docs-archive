@@ -1,0 +1,10 @@
+{
+    "slug": "rak7243c-lorawan-developer-gateway",
+    "description": "It is built with the RAK2245 Pi Hat stacked with the newest Raspberry Pi 3B+ along with the GPS module and Heat Sink, increasing its performance and thermal dissipation, plus a RAK2013 Cellular Pi HAT for cellular connectivity.",
+    "wide": true,
+    "sticky": false,
+    "collapsed": false,
+    "collapsedCategories": false,
+    "showLastUpdated": false,
+    "locale": "en_us"
+}

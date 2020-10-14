@@ -1,0 +1,10 @@
+{
+    "slug": "rak7204-lora-environmental-sensor",
+    "description": "The RAK7204 is a LoRaWAN\u2122 node with integrated environmental sensors. The high-precision environmental sensors, can measure changes in temperature, humidity, gas pressure and provide an indoor air quality index.",
+    "wide": true,
+    "sticky": false,
+    "collapsed": false,
+    "collapsedCategories": false,
+    "showLastUpdated": false,
+    "locale": "en_us"
+}

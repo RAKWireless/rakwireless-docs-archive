@@ -1,0 +1,10 @@
+{
+    "slug": "rak7243-lorawan-developer-gateway",
+    "description": "The RAK7243 LoRaWAN\u00ae Developer Gateway is just a RAK2245 Pi Hat which can be easily stacked on top of a cheap Single Board Computer (SBC) such as the Raspberry Pi 3B+ or Raspberry Pi 4 which is enclosed in a Pilot Gateway Casing",
+    "wide": true,
+    "sticky": false,
+    "collapsed": false,
+    "collapsedCategories": false,
+    "showLastUpdated": false,
+    "locale": "en_us"
+}

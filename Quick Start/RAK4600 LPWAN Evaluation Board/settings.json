@@ -1,0 +1,10 @@
+{
+    "slug": "rak4600-lora-evaluation-board",
+    "description": "RAK4600 LPWAN Evaluation Board is a WisBlock product that consists of RAK4600 LPWAN Module and RAK5005 WisBase. This development board allows access to all serial and GPIO ports for easy configuration.",
+    "wide": true,
+    "sticky": false,
+    "collapsed": false,
+    "collapsedCategories": false,
+    "showLastUpdated": false,
+    "locale": "en_us"
+}

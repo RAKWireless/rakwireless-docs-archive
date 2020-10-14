@@ -1,0 +1,10 @@
+{
+    "slug": "rak5205-rak7205-wistrio-lora-tracker",
+    "description": "The RAK5205 LoRa\u00ae Tracker Board is built on the Semtech SX1276 chip, with the STM32L1 MCU at its core. It is a feature-packed sensor board with LoRa\u00ae connectivity and built-in GPS. It provides various interfaces for easy application development.",
+    "wide": true,
+    "sticky": false,
+    "collapsed": false,
+    "collapsedCategories": false,
+    "showLastUpdated": false,
+    "locale": "en_us"
+}
